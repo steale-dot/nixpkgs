@@ -2,7 +2,7 @@
 
 php.buildComposerProject (finalAttrs: {
   pname = "phpactor";
-  version = "2023.08.06-1";
+  version = "2023.12.03.0";
 
   src = fetchFromGitHub {
     owner = "phpactor";
